@@ -1,0 +1,68 @@
+{
+  "achievments": [
+    {
+      "id": 0,
+      "name": "Newcomer",
+      "badge": "images/Medal_Icons/Bronze Medal.png",
+      "desc": "Complete all daily tasks on your first day.",
+      "conditionTracker": 0,
+      "completed": false
+    },
+    {
+      "id": 1,
+      "name": "Tenacious Individual",
+      "badge": "images/Medal_Icons/Silver Medal.png",
+      "desc": "Complete all daily tasks for a week .",
+      "conditionTracker": 0,
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Seasoned Veteran",
+      "badge": "images/Medal_Icons/Gold Medal.png",
+      "desc": "Stay consistent and complete all daily tasks for a month.",
+      "conditionTracker": 0,
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "The Summit",
+      "badge": "images/Medal_Icons/Top Medal.png",
+      "desc": "Consistency was kept and all daily tasks was comepleted for a year.",
+      "conditionTracker": 0,
+      "completed": false
+    },
+    {
+      "id": 4,
+      "name": "Early Bird",
+      "badge": "images/Medal_Icons/Sleep Medal.png",
+      "desc": "Wake up when the world is still sleeping, set an alarm for 6-7 AM.",
+      "conditionTracker": 0,
+      "completed": false
+    },
+    {
+      "id": 5,
+      "name": "Fitness Junkie",
+      "badge": "images/Medal_Icons/Fitness Medal.png",
+      "desc": "You stayed active and had a consistent workout for a month.",
+      "conditionTracker": 0,
+      "completed": false
+    },
+    {
+      "id": 6,
+      "name": "Water Tank",
+      "badge": "images/Medal_Icons/Water Medal.png",
+      "desc": "Consume up to 5L of water in a single day.",
+      "conditionTracker": 0,
+      "completed": false
+    },
+    {
+      "id": 7,
+      "name": "Temple Body",
+      "badge": "images/Medal_Icons/Food Medal.png",
+      "desc": "Hit your calorie intake goal for a week.",
+      "conditionTracker": 0,
+      "completed": false
+    }
+  ]
+}

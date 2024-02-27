@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873956127976",
+    "project_id": "habits-2d757",
+    "storage_bucket": "habits-2d757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873956127976:android:92e823c7040347d7d4455d",
+        "android_client_info": {
+          "package_name": "com.owenlee.habits"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCohupZmX7QyBpct3tsktHoRRQec9m_SE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Habits",
+    "slug": "Habits",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E9F1F2"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIBackgroundModes": [
+          "audio"
+        ]
+      },
+      "bundleIdentifier": "com.anonymous.Habits"
+    },
+    "android": {
+      "permissions": [
+        "INTERNET",
+        "WAKE_LOCK",
+        "MODIFY_AUDIO_SETTINGS"
+      ],
+      "package": "com.owenlee.habits",
+      "versionCode": 1,
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#E9F1F2"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fa065182-c273-4251-83b6-9ef900f86bc4"
+      }
+    }
+  }
+}
