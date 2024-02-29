@@ -14,6 +14,7 @@ The deliverable features of this application would be an interactive virtual com
 ### App Screens
 
 #### Home
+<img src="https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/7ebe4bc5-98ba-4aec-9fae-018aebb97896" width="100 />
 ![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 12](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/7ebe4bc5-98ba-4aec-9fae-018aebb97896 | width=100)
 ![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 16](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/5fda035c-ec22-4a26-8041-51debbc6b640)
 
