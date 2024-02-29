@@ -14,23 +14,24 @@ The deliverable features of this application would be an interactive virtual com
 ### App Screens
 
 #### Home
-<img src="https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/7ebe4bc5-98ba-4aec-9fae-018aebb97896" width="100 />
-![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 12](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/7ebe4bc5-98ba-4aec-9fae-018aebb97896 | width=100)
-![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 16](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/5fda035c-ec22-4a26-8041-51debbc6b640)
+![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 16](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/58014ee8-fb49-4f73-9b25-5f4bdd3f05ca)
+![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 12](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/342764ca-d069-4576-863e-873d13488b01)
+
 
 #### Sleep/Alarm Screen
-![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 21](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/f65ab80c-b39b-4326-853a-a9598293f2ad)
+![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 21](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/c2a1b8e6-07e2-4dbc-aad9-826707358a3f)
+
 
 #### Fitness/WGER API Screens
-![image](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/146eeebf-5d35-4db3-ba46-fd8e332a5d73)
-![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 29](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/43de2711-dd73-4b12-8d90-66aae075c054)
+![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 29](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/eeac15a3-3887-4826-b59c-63585f1925ad)
+![Simulator_Screenshot_-_iPhone_14_-_2024-02-29_at_16 39 09](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/29eb4ad8-3f73-4fd9-b178-09fdf8466f06)
 
 
 #### Hydration Screen
-![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 34](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/b1e8cbaa-c7d4-4c7f-9e0b-dea4d8956a13)
-![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 43](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/35c71600-c164-4d0b-a849-93982e3f7fb7)
+![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 43](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/0453558f-4d02-4426-a624-d82256ee9ba4)
+![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 34](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/c1e5cd79-5a3a-440c-9301-ba2d06d543be)
 
 
 #### Calorie Screen
-![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 47](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/2382828f-56ad-4a2d-8179-3d80f6c8fd65)
-![Uploading Simulator Screenshot - iPhone 14 - 2024-02-29 at 15.09.58.png…]()
+![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 58](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/9ebec626-ee85-4ccf-85a6-57849a53781d)
+![Simulator Screenshot - iPhone 14 - 2024-02-29 at 15 09 47](https://github.com/mcgoobie/CM3070_FinalProject/assets/43033770/bf414e5d-cc14-4d51-bfce-82c9604f879e)
